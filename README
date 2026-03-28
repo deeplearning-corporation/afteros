@@ -1,0 +1,19 @@
+AfterOS
+=======
+
+1.What is AfterOS
+AfterOS is a open-source phone operating system
+this operating system is based on Linux
+
+2.Compile AfterOS
+Compile AfterOS = Compile Linux kernel
+you can is use Makefile to compile AfterOS
+
+3.Downloads LiveFile
+you can is use GitHub Releases or Website(https://deeplearning-corporation/afteros) to Download AfterOS LiveFile(ISO)
+
+4.Legal
+This project is use GPL v2 license(because based on Linux)
+
+5.Thanks Read
+Thanks Read this README docs
